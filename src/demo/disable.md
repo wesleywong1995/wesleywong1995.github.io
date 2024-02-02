@@ -21,6 +21,8 @@ comment: false
 footer: false
 
 backtotop: false
+
+article: false
 ---
 
 你可以通过设置页面的 Frontmatter，在页面禁用功能与布局。
