@@ -51,7 +51,7 @@ export default navbar([
   {
     text: "编程设计",
     icon: "lightbulb",
-    prefix: "codetech/",
+    prefix: "code/",
     children: [
       {
         text: "编程语言",
