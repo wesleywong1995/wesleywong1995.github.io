@@ -1,1 +1,0 @@
-import{_ as e}from"./plugin-vue_export-helper-x3n3nnut.js";import{o as t,c as o,a as r}from"./app-2TW-nx_s.js";const c={};function n(s,m){return t(),o("div",null,[r(" 相关配置文档请见 [博客主页](https://theme-hope.vuejs.press/zh/guide/blog/home/)。 ")])}const l=e(c,[["render",n],["__file","index.html.vue"]]);export{l as default};
